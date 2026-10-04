@@ -1,5 +1,8 @@
 package com.mycompany.app;
 
+
+// Second modification for CI/CD assignment
+
 /**
  * Hello world!
  */
